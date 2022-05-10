@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, sou o Breno 👋
+
+Possuo experiência profissional na área acadêmica. Ensino médio e superior em Engenharia da Computação completos. 🤓
 
 <!--
 **brenolor/brenolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
